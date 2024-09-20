@@ -1,16 +1,11 @@
-# untitled3
+# Flutter Login Application
 
-A new Flutter project.
+## Deskripsi Proyek
 
-## Getting Started
+Proyek ini adalah aplikasi Flutter yang menyediakan fitur login sederhana. Aplikasi ini merupakan bagian dari tugas Praktikum Pemrograman Aplikasi Mobile. Tujuan dari proyek ini adalah untuk membangun aplikasi dengan fitur login menggunakan Flutter, yang memungkinkan pengguna untuk masuk dengan kredensial yang telah ditentukan.
 
-This project is a starting point for a Flutter application.
+## Fitur
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Halaman Login:** Pengguna dapat memasukkan username dan password.
+- **Validasi Login:** Memeriksa kredensial username dan password. Username yang valid adalah `abc` dan password yang valid adalah `123`.
+- **Navigasi:** Setelah login berhasil, pengguna akan diarahkan ke halaman Dashboard.
