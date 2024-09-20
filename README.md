@@ -1,4 +1,4 @@
-# Flutter Login Application
+# Flutter Login Application ✨
 
 ## Deskripsi Proyek
 
